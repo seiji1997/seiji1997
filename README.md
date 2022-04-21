@@ -31,7 +31,7 @@ ipadic, pytorch-lightning, glob
 ・ (Imageprocessing)OpenCV,Pillow,scikit-image
 ・ (GUIconstruction,webapplications)Flask,Django,Streamlit
 
-### 【Models and methods that I have used before】
+### Models and methods that I have used before
 ・ (Multivariate analysis) Linear regression (Polynomial, Gaussian basis functions, L1:Lasso, L2:Ridge,
 Elastic net), Principal component analysis, Multidimensional scaling (MDS), Hierarchical clustering
 (DBSCAN)

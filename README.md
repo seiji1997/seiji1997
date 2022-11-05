@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### My Information
 - GitHub:https://github.com/seiji0203
 - Qiita:https://qiita.com/seiji1997
-- Web:https://seiji-tanimoto.ghost.io
+- Web:[Seiji Tanimoto](https://www.seijitanimoto1997.com/)
 - Linkedin:https://www.linkedin.com/in/seijitanimoto1997/

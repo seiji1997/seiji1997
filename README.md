@@ -9,12 +9,12 @@ Here are about me:
 - 📫 How to reach me: find me at LinkedIn.
 - 📖 I also love writing! For example my web site.
 
-*** 
-
 ### Find my information elsewhere online:
 - Qiita:https://qiita.com/seiji1997
 - [My Web](https://www.seijitanimoto1997.com/)(here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
 - Linkedin:https://www.linkedin.com/in/seijitanimoto1997/
+
+*** 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/seiji1997/posts.svg)](http://qiita.com/seiji1997)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](http://qiita.com/seiji1997)

@@ -19,9 +19,7 @@ Here are about me:
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](http://qiita.com/seiji1997)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/seiji1997/followers.svg)](http://qiita.com/seiji1997)
                 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

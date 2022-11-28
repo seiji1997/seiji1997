@@ -11,7 +11,7 @@ Here are about me:
 
 *** 
 
-### find my information elsewhere online:
+### Find my information elsewhere online:
 - Qiita:https://qiita.com/seiji1997
 - [My Web](https://www.seijitanimoto1997.com/)(here you can see [what I'm up to now]())
 - Linkedin:https://www.linkedin.com/in/seijitanimoto1997/

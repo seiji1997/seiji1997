@@ -1,4 +1,5 @@
 ### Hi there, I am Seiji 👋
+and I am a machine learning and AI researcher with a strong passion for Business!
 
 Here are about me:
 

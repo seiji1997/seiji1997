@@ -15,6 +15,7 @@ Some things about me:
 - Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - here is my thoughts: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap)
+- reference materials for learning data science: [reference materials](https://github.com/seiji1997/reference-materials)
 
 *** 
 

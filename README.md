@@ -1,7 +1,7 @@
 ### Hi there, I am Seiji 👋
 and I am a machine learning and Data Engineer with a strong passion for business!
 
-Here are about me:
+Some things about me:
 
 - 🔭 I’m currently working on IT company as a Machine Learning Engineer.
 - 🌱 I’m learning Google Cloud, Machine Learning and more.

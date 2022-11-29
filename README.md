@@ -14,6 +14,7 @@ Here are about me:
 - [My Web](https://www.seijitanimoto1997.com/)(here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
 - Linkedin:https://www.linkedin.com/in/seijitanimoto1997/
 - [my certification](https://github.com/seiji1997/certification)
+- here is my thoughts: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap)
 
 *** 
 

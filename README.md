@@ -7,7 +7,7 @@ Some things about me:
 - 🌱 among other things, I’m learning Google Cloud, Machine Learning and etc.
 - ⚡️ I'm looking to relocate abroad and find a job overseas in the upcoming years.
 - 📫 How to reach me: find me on LinkedIn.
-- 📖 I also love writing. check out my web site in the bio.
+- 📖 I also love writing. Check out my web site in the bio.
 
 ### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997

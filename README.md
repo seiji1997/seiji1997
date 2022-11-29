@@ -3,11 +3,11 @@ and I am a machine learning and Data Engineer with a strong passion for business
 
 Some things about me:
 
-- 🔭 I’m currently working on IT company as a Machine Learning Engineer.
-- 🌱 I’m learning Google Cloud, Machine Learning and more.
-- ⚡️ I’m looking for help with how to get a job overseas?
-- 📫 How to reach me: find me at LinkedIn.
-- 📖 I also love writing! For example my web site.
+- 🔭 I’m currently working for an IT company as a Machine Learning Engineer.
+- 🌱 among other things, I’m learning Google Cloud, Machine Learning and etc.
+- ⚡️ I'm looking to relocate abroad and find a job overseas in the upcoming years.
+- 📫 How to reach me: find me on LinkedIn.
+- 📖 I also love writing. check out my web site in the bio.
 
 ### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997

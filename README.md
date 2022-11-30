@@ -19,6 +19,7 @@ Some things about me:
 - here is my thoughts: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap)
 - reference materials for learning data science: [reference materials](https://github.com/seiji1997/reference-materials)
 - I will start learning algorithm: [algorithm](https://github.com/seiji1997/algorithm)
+- My knowledge of git and github: [git-github](https://github.com/seiji1997/git-github)
 
 *** 
 

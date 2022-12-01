@@ -1,7 +1,7 @@
 ### Hi there, I am Seiji 👋
 and I am a machine learning and Data Engineer with a strong passion for business!
 
-Some things about me:
+#### Some things about me:
 
 - 🔭 I’m currently working for an IT company as a Machine Learning Engineer.
 - 🌱 among other things, I’m learning Google Cloud, Machine Learning and etc.
@@ -9,12 +9,12 @@ Some things about me:
 - 📫 How to reach me: find me on LinkedIn.
 - 📖 I also love writing. Check out my web site in the bio.
 
-### Find my information elsewhere online:
+#### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997
-- Blog: [My Web](https://www.seijitanimoto1997.com/)(here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
+- Blog: [My Web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
 - Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
 
-### For my progress:
+#### For my progress:
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - here is my thoughts: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap)
 - reference materials for learning data science: [reference materials](https://github.com/seiji1997/reference-materials)

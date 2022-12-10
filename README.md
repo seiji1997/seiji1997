@@ -16,12 +16,8 @@ and I am a machine learning and Data Engineer with a strong passion for business
 
 #### For my progress:
 - I got these: [my certification](https://github.com/seiji1997/certification)
-- here is my thoughts: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap)
-- reference materials for learning data science: [reference materials](https://github.com/seiji1997/reference-materials)
-- My Knowledge of python: [Python](https://github.com/seiji1997/Python)
-- My knowledge of git and github: [git-github](https://github.com/seiji1997/git-github)
-- I will start learning algorithm: [algorithm](https://github.com/seiji1997/algorithm)
-- I will build my Knoelwdge of DevOps: [DevOps](https://github.com/seiji1997/DevOps)
+- about machine learning: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap), [machine-learning-models](https://github.com/seiji1997/machine-learning-models), [reference materials](https://github.com/seiji1997/reference-materials)
+- My Knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps)
 
 *** 
 

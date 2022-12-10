@@ -11,13 +11,13 @@ and I am a machine learning and Data Engineer with a strong passion for business
 
 #### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997
-- Blog: [My Web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
+- Blog: [my web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
 - Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
 
 #### For my progress:
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - about machine learning: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap), [machine-learning-models](https://github.com/seiji1997/machine-learning-models), [reference materials](https://github.com/seiji1997/reference-materials)
-- My Knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps)
+- my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps)
 
 *** 
 

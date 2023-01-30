@@ -18,6 +18,7 @@ and I am a machine learning and Data Engineer with a strong passion for business
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - about machine learning: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap), [machine-learning-models](https://github.com/seiji1997/machine-learning-models), [reference materials](https://github.com/seiji1997/reference-materials)
 - my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps), [docker](https://github.com/seiji1997/docker)
+- memo for [English](https://github.com/seiji1997/English)
 
 *** 
 

@@ -21,9 +21,7 @@ and I am a machine learning and Data Engineer with a strong passion for business
 - memo for [English](https://github.com/seiji1997/English)
 
 #### Technologies I will focus on learning from June 1, 2023 to December 31, 2023:
-- [Python](https://github.com/seiji1997/Python)
-- [algorithm](https://github.com/seiji1997/algorithm)
-- [SQL](https://github.com/seiji1997/SQL)
+- [Python](https://github.com/seiji1997/Python), [algorithm](https://github.com/seiji1997/algorithm), [SQL](https://github.com/seiji1997/SQL)
 
 *** 
 

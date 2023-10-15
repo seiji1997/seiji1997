@@ -4,10 +4,10 @@ and I am a machine learning and Data Engineer with a strong passion for business
 #### Some things about me:
 
 - 🔭 I’m currently working for an IT company as a Machine Learning Engineer.
-- 🌱 among other things, I’m learning Google Cloud, Machine Learning and etc.
+- 🌱 among other things, I’m learning Google Cloud, Machine Learning, etc.
 - ⚡️ I'm looking to relocate abroad and find a job overseas in the upcoming years.
 - 📫 How to reach me: find me on LinkedIn.
-- 📖 I also love writing. Check out my web site in the bio.
+- 📖 I also love writing. Check out my website in the bio.
 
 #### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997
@@ -17,11 +17,11 @@ and I am a machine learning and Data Engineer with a strong passion for business
 #### For my progress:
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - about machine learning: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap), [machine-learning-models](https://github.com/seiji1997/machine-learning-models), [reference materials](https://github.com/seiji1997/reference-materials)
-- my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps), [docker](https://github.com/seiji1997/docker)
+- my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps), [docker](https://github.com/seiji1997/docker), [algorithm](https://github.com/seiji1997/algorithm), [Excel]()
 - memo for [English](https://github.com/seiji1997/English)
 
 #### Technologies I will focus on learning in 2023 and 2024:
-- [Python](https://github.com/seiji1997/Python), [algorithm](https://github.com/seiji1997/algorithm), [SQL](https://github.com/seiji1997/SQL), [data-engineering](https://github.com/seiji1997/data-engineering)
+- [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [data-engineering](https://github.com/seiji1997/data-engineering)
 - [AWS Certified Data Analytics Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Data%20Analytics%20Specialty)
 - [AWS Certified Machine Learning Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Machine%20Learning%20Specialty)
 

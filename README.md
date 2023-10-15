@@ -28,8 +28,8 @@ and I am a machine learning and Data Engineer with a strong passion for business
 *** 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/seiji1997/posts.svg)](http://qiita.com/seiji1997)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](http://qiita.com/seiji1997)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/seiji1997/followers.svg)](http://qiita.com/seiji1997)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](http://qiita.com/seiji1997)<br>
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/seiji1997/followers.svg)](http://qiita.com/seiji1997)<br>
                 
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 

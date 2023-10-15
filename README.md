@@ -20,10 +20,10 @@ and I am a machine learning and Data Engineer with a strong passion for business
 - my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [algorithm](https://github.com/seiji1997/algorithm), [DevOps](https://github.com/seiji1997/DevOps), [docker](https://github.com/seiji1997/docker)
 - memo for [English](https://github.com/seiji1997/English)
 
-#### Technologies I will focus on learning from June 1, 2023 to December 31, 2023:
+#### Technologies I will focus on learning in 2023 and 2024:
 - [Python](https://github.com/seiji1997/Python), [algorithm](https://github.com/seiji1997/algorithm), [SQL](https://github.com/seiji1997/SQL), [data-engineering](https://github.com/seiji1997/data-engineering)
 - [AWS Certified Data Analytics Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Data%20Analytics%20Specialty)
-- [AWS Certified Machine Learning Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Machine%20Learning%20Specialty), 
+- [AWS Certified Machine Learning Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Machine%20Learning%20Specialty)
 
 *** 
 

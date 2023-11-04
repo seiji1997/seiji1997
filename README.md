@@ -1,9 +1,9 @@
 ### Hi there, I am Seiji 👋
-and I am a machine learning and Data Engineer with a strong passion for business!
+I am a machine learning and Data Engineer with a strong passion for business!
 
 #### Some things about me:
 
-- 🔭 I’m currently working for an IT company as a Machine Learning Engineer.
+- 🔭 I work for an IT company as a Machine Learning Engineer.
 - 🌱 among other things, I’m learning Google Cloud, AWS, Data Engineering, Machine Learning, etc.
 - ⚡️ I'm looking to relocate abroad and find a job overseas in the upcoming years. maybe in 2024. 
 - 📫 How to reach me: find me on LinkedIn(Please refer to the following).

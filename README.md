@@ -11,13 +11,13 @@ I am a machine learning and Data Engineer with a strong passion for business!
 
 #### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997
-- Blog: [my web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/))
+- Blog: [my web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/)), [tec blog](https://www.seijitanimoto1997.com/tecblog)
 - Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
 
 #### For my progress:
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - about machine learning: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap), [machine-learning-models](https://github.com/seiji1997/machine-learning-models), [reference materials](https://github.com/seiji1997/reference-materials)
-- my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [DevOps](https://github.com/seiji1997/DevOps), [algorithm](https://github.com/seiji1997/algorithm)
+- my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [DevOps](https://github.com/seiji1997/DevOps), [algorithm](https://github.com/seiji1997/algorithm), [memory](https://github.com/seiji1997/memory)
 - language memo: [English](https://github.com/seiji1997/English), [PySpark](https://github.com/seiji1997/PySpark), [JavaScript](https://github.com/seiji1997/JavaScript), [HTML-CSS](https://github.com/seiji1997/HTML-CSS), [React](https://github.com/seiji1997/React), [jQuery](https://github.com/seiji1997/jQuery), [Node.js](https://github.com/seiji1997/Node.js), [Go](https://github.com/seiji1997/Go), [Cpp](https://github.com/seiji1997/Cpp)
 - BI memo: [Looker](https://github.com/seiji1997/Looker), [QuickSight](https://github.com/seiji1997/QuickSight), [PowerBI](https://github.com/seiji1997/PowerBI)
 - tool memo: [chatgpt](https://github.com/seiji1997/chatgpt), [docker](https://github.com/seiji1997/docker), [Excel](https://github.com/seiji1997/Excel)

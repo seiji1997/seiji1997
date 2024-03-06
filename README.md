@@ -11,7 +11,7 @@ I am a machine learning and Data Engineer with a strong passion for business!
 
 #### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997
-- Blog: [my web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/)), [tec blog](https://www.seijitanimoto1997.com/tecblog)
+- Blog: [my web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/)), and my [tec blog](https://www.seijitanimoto1997.com/tecblog)
 - Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
 
 #### For my progress:

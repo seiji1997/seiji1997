@@ -15,14 +15,14 @@ I am a machine learning and Data Engineer with a strong passion for business!
 - Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
 
 #### For my progress:
+- my current passion: [algorithm](https://github.com/seiji1997/algorithm), [Python](https://github.com/seiji1997/Python), [Cpp](https://github.com/seiji1997/Cpp), [data-engineering](https://github.com/seiji1997/data-engineering), [memory](https://github.com/seiji1997/memory), [SQL](https://github.com/seiji1997/SQL)
 - I got these: [my certification](https://github.com/seiji1997/certification)
 - about machine learning: [machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap), [machine-learning-models](https://github.com/seiji1997/machine-learning-models), [reference materials](https://github.com/seiji1997/reference-materials)
-- my knowledge of some stuff: [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [DevOps](https://github.com/seiji1997/DevOps), [algorithm](https://github.com/seiji1997/algorithm), [memory](https://github.com/seiji1997/memory)
-- language memo: [English](https://github.com/seiji1997/English), [Spark](https://github.com/seiji1997/Spark), [JavaScript](https://github.com/seiji1997/JavaScript), [HTML-CSS](https://github.com/seiji1997/HTML-CSS), [React](https://github.com/seiji1997/React), [jQuery](https://github.com/seiji1997/jQuery), [Next.js](https://github.com/seiji1997/Next.js) ,[Node.js](https://github.com/seiji1997/Node.js), [Go](https://github.com/seiji1997/Go), [Cpp](https://github.com/seiji1997/Cpp)
+- my knowledge of some stuff: [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [DevOps](https://github.com/seiji1997/DevOps), [English](https://github.com/seiji1997/English), [Spark](https://github.com/seiji1997/Spark), [JavaScript](https://github.com/seiji1997/JavaScript), [HTML-CSS](https://github.com/seiji1997/HTML-CSS), [React](https://github.com/seiji1997/React), [jQuery](https://github.com/seiji1997/jQuery), [Next.js](https://github.com/seiji1997/Next.js) ,[Node.js](https://github.com/seiji1997/Node.js), [Go](https://github.com/seiji1997/Go)
 - tool memo: [Looker](https://github.com/seiji1997/Looker), [QuickSight](https://github.com/seiji1997/QuickSight), [PowerBI](https://github.com/seiji1997/PowerBI), [chatgpt](https://github.com/seiji1997/chatgpt), [docker](https://github.com/seiji1997/docker), [Excel](https://github.com/seiji1997/Excel)
 
 #### Technologies I will focus on learning in 2023 and 2024:
-- [Python](https://github.com/seiji1997/Python), [SQL](https://github.com/seiji1997/SQL), [data-engineering](https://github.com/seiji1997/data-engineering), [AWS Certified Data Analytics Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Data%20Analytics%20Specialty), [AWS Certified Machine Learning Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Machine%20Learning%20Specialty)
+- [AWS Certified Data Analytics Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Data%20Analytics%20Specialty), [AWS Certified Machine Learning Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Machine%20Learning%20Specialty)
 
 *** 
 

@@ -21,8 +21,8 @@ I am a machine learning and Data Engineer with a strong passion for business!
 - my knowledge: [git-github](https://github.com/seiji1997/git-github), [linux](https://github.com/seiji1997/linux), [DevOps](https://github.com/seiji1997/DevOps), [English](https://github.com/seiji1997/English), [Spark](https://github.com/seiji1997/Spark), [JavaScript](https://github.com/seiji1997/JavaScript), [HTML-CSS](https://github.com/seiji1997/HTML-CSS), [React](https://github.com/seiji1997/React), [Next.js](https://github.com/seiji1997/Next.js) ,[Node.js](https://github.com/seiji1997/Node.js), [Go](https://github.com/seiji1997/Go)
 - tool: [Looker](https://github.com/seiji1997/Looker), [QuickSight](https://github.com/seiji1997/QuickSight), [PowerBI](https://github.com/seiji1997/PowerBI), [chatgpt](https://github.com/seiji1997/chatgpt), [docker](https://github.com/seiji1997/docker), [Excel](https://github.com/seiji1997/Excel)
 
-#### Technologies I will focus on learning in 2023 and 2024:
-- [AWS Certified Data Analytics Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Data%20Analytics%20Specialty), [AWS Certified Machine Learning Specialty](https://github.com/seiji1997/amazon-web-service/tree/master/AWS%20Certified%20Machine%20Learning%20Specialty)
+#### Technologies I will focus on learning in 2025:
+- [Databricks data_engineer_associatenote](), [Databricks data_engineer_professional](https://github.com/seiji1997/Databricks/tree/master/data_engineer_professional)
 
 *** 
 

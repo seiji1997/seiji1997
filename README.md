@@ -22,7 +22,7 @@ I am a machine learning and Data Engineer with a strong passion for business!
 - tool: [Looker](https://github.com/seiji1997/Looker), [QuickSight](https://github.com/seiji1997/QuickSight), [PowerBI](https://github.com/seiji1997/PowerBI), [chatgpt](https://github.com/seiji1997/chatgpt), [docker](https://github.com/seiji1997/docker), [Excel](https://github.com/seiji1997/Excel)
 
 #### Technologies I will focus on learning in 2025:
-- [Databricks data_engineer_associatenote](), [Databricks data_engineer_professional](https://github.com/seiji1997/Databricks/tree/master/data_engineer_professional)
+- [Databricks data_engineer_associate](https://github.com/seiji1997/Databricks/tree/master/data_engineer_associate), [Databricks data_engineer_professional](https://github.com/seiji1997/Databricks/tree/master/data_engineer_professional)
 
 *** 
 

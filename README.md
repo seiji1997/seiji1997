@@ -4,7 +4,7 @@ I am a machine learning and Data Engineer with a strong passion for business!
 #### Some things about me:
 
 - 🔭 I work for an IT company as a Machine Learning Engineer.
-- 🌱 among other things, I’m learning Google Cloud, AWS, Data Engineering, Machine Learning, etc.
+- 🌱 Among other things, I’m learning Google Cloud, AWS, Data Engineering, Machine Learning, etc.
 - ⚡️ I'm looking to relocate abroad and find a job overseas in the upcoming years. Maybe in 2024. 
 - 📫 How to reach me: find me on LinkedIn(Please refer to the following).
 - 📖 I also love writing. Check out my website in the bio.
@@ -12,7 +12,7 @@ I am a machine learning and Data Engineer with a strong passion for business!
 #### Find my information elsewhere online:
 - Qiita: https://qiita.com/seiji1997
 - Blog: [my web](https://www.seijitanimoto1997.com/) (here you can see [what I'm up to now](https://www.seijitanimoto1997.com/now/)), and my [tec blog](https://seiji1997.github.io/tecblog/)
-- Linkedin: https://www.linkedin.com/in/seijitanimoto1997/
+- LinkedIn: https://www.linkedin.com/in/seijitanimoto1997/
 
 #### For my progress:
 - my current passion: [algorithm](https://github.com/seiji1997/algorithm), [Python](https://github.com/seiji1997/Python), [Cpp](https://github.com/seiji1997/Cpp), [data-engineering](https://github.com/seiji1997/data-engineering), [memory](https://github.com/seiji1997/memory), [SQL](https://github.com/seiji1997/SQL)

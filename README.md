@@ -6,63 +6,62 @@
 
 I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 
-<br>
+### 🌐 [seiji1997.github.io/tecblog →](https://seiji1997.github.io/tecblog/)
 
-<a href="https://seiji1997.github.io/tecblog/">
-  <img src="https://img.shields.io/badge/OPEN-Seiji%20Tech%20Atlas-0b0f19?style=for-the-badge&logo=githubpages&logoColor=white" alt="Seiji Tech Atlas"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-%230b0f19.svg?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Engineering-%230b0f19.svg?style=flat-square" />
-<img src="https://img.shields.io/badge/Snowflake-%230b0f19.svg?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud-%230b0f19.svg?style=flat-square" />
-<img src="https://img.shields.io/badge/Personal%20Knowledge%20Base-%230b0f19.svg?style=flat-square" />
+<sub>Seiji Tech Atlas — my personal knowledge base, project hub, and digital garden.</sub>
 
 </div>
 
----
-
-## 🌌 Seiji Tech Atlas
-
-> A personal knowledge atlas for **Learning / Building / Thinking**
+<br>
 
 <table>
 <tr>
-<td width="33%">
+
+<td width="33%" valign="top">
 
 ### 🧠 Learn
-- Snowflake  
-- AI / ML  
-- Data Engineering  
-- Cloud
+
+**What I am learning**
+
+Snowflake  
+AI / Machine Learning  
+Data Engineering  
+Cloud
 
 </td>
-<td width="33%">
+
+<td width="33%" valign="top">
 
 ### 🛠 Build
-- Tools  
-- Experiments  
-- Apps  
-- Projects
+
+**What I am creating**
+
+Tools  
+Experiments  
+Applications  
+Personal Projects
 
 </td>
-<td width="33%">
+
+<td width="33%" valign="top">
 
 ### ✍️ Think
-- AI × Engineering  
-- Data × Business  
-- Career  
-- Learning
+
+**What I am thinking about**
+
+AI × Engineering  
+Data × Business  
+Career  
+Learning
 
 </td>
+
 </tr>
 </table>
 
-### → [Explore Seiji Tech Atlas](https://seiji1997.github.io/tecblog/)
-
 ---
+
+## 👋 About Me
 
 ## 👋 About Me
 

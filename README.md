@@ -26,35 +26,6 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 <a href="https://github.com/seiji1997?tab=repositories">Repositories</a>
 
 </div>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧠 Learn</h3>
-      Snowflake<br>
-      AI / Machine Learning<br>
-      Data Engineering<br>
-      Cloud
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠 Build</h3>
-      Data Tools<br>
-      Experiments<br>
-      Applications<br>
-      Personal Projects
-    </td>
-    <td align="center" width="33%">
-      <h3>✍️ Think</h3>
-      AI × Engineering<br>
-      Data × Business<br>
-      Career<br>
-      Learning
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 👋 About Me

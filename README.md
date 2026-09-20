@@ -27,6 +27,7 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 
 </div>
 
+---
 
 ## 👋 About Me
 

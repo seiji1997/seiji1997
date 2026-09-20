@@ -8,6 +8,8 @@ Before joining Deloitte, I worked for more than **four years as a Machine Learni
 
 I enjoy turning what I learn into **structured knowledge, reusable tools, and practical outputs**.
 
+---
+
 <div align="center">
 
 <table>
@@ -16,9 +18,7 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 ## 🌌 Seiji Tech Atlas
 
-**AI & Data Consultant · Data Engineering · Machine Learning · Snowflake**
-
-I learn, build, and write about **AI, Data, Cloud, and Engineering**.
+**A personal knowledge hub for what I learn, build, and think about.**
 
 <br>
 
@@ -50,7 +50,7 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 
 ## ⚡ Now
 
-**2026 Snowflake roadmap**
+**2026 Snowflake Roadmap**
 
 `10/12 SnowPro Core`
 →
@@ -72,11 +72,13 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 
 | Area | Repositories |
 |---|---|
-| **AI / Machine Learning** | [Algorithm](https://github.com/seiji1997/algorithm) · [ML Roadmap](https://github.com/seiji1997/machine-learning-roadmap) · [ML Models](https://github.com/seiji1997/machine-learning-models) · [Reference Materials](https://github.com/seiji1997/reference-materials) · [ChatGPT](https://github.com/seiji1997/chatgpt) |
-| **Data Engineering** | [Data Engineering](https://github.com/seiji1997/data-engineering) · [SQL](https://github.com/seiji1997/SQL) · [Python](https://github.com/seiji1997/Python) · [Spark](https://github.com/seiji1997/Spark) |
-| **Cloud / DevOps** | [Google Cloud](https://github.com/seiji1997/google-cloud) · [AWS](https://github.com/seiji1997/amazon-web-service) · [Git / GitHub](https://github.com/seiji1997/git-github) · [Linux](https://github.com/seiji1997/linux) · [Docker](https://github.com/seiji1997/docker) · [DevOps](https://github.com/seiji1997/DevOps) |
-| **Web / Application** | [JavaScript](https://github.com/seiji1997/JavaScript) · [HTML / CSS](https://github.com/seiji1997/HTML-CSS) · [React](https://github.com/seiji1997/React) · [Next.js](https://github.com/seiji1997/Next.js) · [Node.js](https://github.com/seiji1997/Node.js) · [Go](https://github.com/seiji1997/Go) |
-| **BI / Analytics / Tools** | [Power BI](https://github.com/seiji1997/PowerBI) · [Looker](https://github.com/seiji1997/Looker) · [QuickSight](https://github.com/seiji1997/QuickSight) · [Excel](https://github.com/seiji1997/Excel) |
+| **🧠 AI / Machine Learning** | [Algorithm](https://github.com/seiji1997/algorithm) · [ML Roadmap](https://github.com/seiji1997/machine-learning-roadmap) · [ML Models](https://github.com/seiji1997/machine-learning-models) · [Reference Materials](https://github.com/seiji1997/reference-materials) · [ChatGPT](https://github.com/seiji1997/chatgpt) |
+| **🏗 Data Engineering** | [Data Engineering](https://github.com/seiji1997/data-engineering) · [SQL](https://github.com/seiji1997/SQL) · [Python](https://github.com/seiji1997/Python) · [Spark](https://github.com/seiji1997/Spark) |
+| **☁️ Cloud / DevOps** | [Google Cloud](https://github.com/seiji1997/google-cloud) · [AWS](https://github.com/seiji1997/amazon-web-service) · [Git / GitHub](https://github.com/seiji1997/git-github) · [Linux](https://github.com/seiji1997/linux) · [Docker](https://github.com/seiji1997/docker) · [DevOps](https://github.com/seiji1997/DevOps) |
+| **💻 Web / Application** | [JavaScript](https://github.com/seiji1997/JavaScript) · [HTML / CSS](https://github.com/seiji1997/HTML-CSS) · [React](https://github.com/seiji1997/React) · [Next.js](https://github.com/seiji1997/Next.js) · [Node.js](https://github.com/seiji1997/Node.js) · [Go](https://github.com/seiji1997/Go) |
+| **📊 BI / Analytics / Tools** | [Power BI](https://github.com/seiji1997/PowerBI) · [Looker](https://github.com/seiji1997/Looker) · [QuickSight](https://github.com/seiji1997/QuickSight) · [Excel](https://github.com/seiji1997/Excel) |
+
+---
 
 ## 🎓 Certifications
 
@@ -109,17 +111,17 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 - [TOEIC - 2022/10/23](https://github.com/seiji1997/certification/blob/master/English/20221023_TOEIC.png)
 - [TOEIC - 2022/12/18](https://github.com/seiji1997/certification/blob/master/English/20221218_TOEIC.png)
 
----
-
 <p align="center">
   <a href="https://github.com/seiji1997/certification">
     <b>View Certification Repository →</b>
   </a>
 </p>
 
+---
+
 <div align="center">
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 
 <br>
 
@@ -182,7 +184,5 @@ I use writing as a way to turn temporary learning into reusable knowledge.
 [![Qiita posts](https://qiita-badge.apiapi.app/s/seiji1997/posts.svg)](https://qiita.com/seiji1997)
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](https://qiita.com/seiji1997)
 [![Qiita followers](https://qiita-badge.apiapi.app/s/seiji1997/followers.svg)](https://qiita.com/seiji1997)
-
-
 
 </div>

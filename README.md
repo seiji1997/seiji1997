@@ -1,20 +1,14 @@
 <div align="center">
 
-# Seiji Tanimoto
-
-### AI & Data Consultant · Data Engineering · Machine Learning · Snowflake
-
-I learn, build, and write about **AI, Data, Cloud, and Engineering**.
-
-<br>
-
 <table>
 <tr>
 <td align="center">
 
 ## 🌌 Seiji Tech Atlas
 
-**My personal hub for AI, Data, Snowflake, Projects, and Thoughts**
+**AI & Data Consultant · Data Engineering · Machine Learning · Snowflake**
+
+I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 
 <br>
 
@@ -22,14 +16,8 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
   <img
     src="https://img.shields.io/badge/OPEN%20WEBSITE-Seiji%20Tech%20Atlas-0969DA?style=for-the-badge&logo=githubpages&logoColor=white"
     alt="Open Seiji Tech Atlas"
-    height="56"
+    height="58"
   />
-</a>
-
-<br><br>
-
-<a href="https://seiji1997.github.io/tecblog/">
-  <strong>Explore the site →</strong>
 </a>
 
 </td>

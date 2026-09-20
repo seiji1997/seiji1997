@@ -26,7 +26,7 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 <a href="https://github.com/seiji1997?tab=repositories">Repositories</a>
 
 </div>
----
+
 
 ## 👋 About Me
 

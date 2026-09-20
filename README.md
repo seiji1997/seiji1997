@@ -1,3 +1,13 @@
+## 👋 About Me
+
+I am an **AI & Data Consultant at Deloitte Tohmatsu** with a background in **machine learning and data engineering**.
+
+My experience spans **data processing, data migration, BI, data validation, technical implementation, PMO, and coordination with global stakeholders and vendors**.
+
+Before joining Deloitte, I worked for more than **four years as a Machine Learning Engineer**.
+
+I enjoy turning what I learn into **structured knowledge, reusable tools, and practical outputs**.
+
 <div align="center">
 
 <table>
@@ -35,18 +45,6 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 <a href="https://github.com/seiji1997?tab=repositories">Repositories</a>
 
 </div>
-
----
-
-## 👋 About Me
-
-I am an **AI & Data Consultant at Deloitte Tohmatsu** with a background in **machine learning and data engineering**.
-
-My experience spans **data processing, data migration, BI, data validation, technical implementation, PMO, and coordination with global stakeholders and vendors**.
-
-Before joining Deloitte, I worked for more than **four years as a Machine Learning Engineer**.
-
-I enjoy turning what I learn into **structured knowledge, reusable tools, and practical outputs**.
 
 ---
 

@@ -1,10 +1,8 @@
 ## 👋 About Me
 
-I am an **AI & Data Consultant at Deloitte Tohmatsu** with a background in **machine learning and data engineering**.
+I am an **AI & Data Consultant** with a background in **machine learning and data engineering**.
 
 My experience spans **data processing, data migration, BI, data validation, technical implementation, PMO, and coordination with global stakeholders and vendors**.
-
-Before joining Deloitte, I worked for more than **four years as a Machine Learning Engineer**.
 
 I enjoy turning what I learn into **structured knowledge, reusable tools, and practical outputs**.
 

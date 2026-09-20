@@ -61,83 +61,78 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 ---
 
-## 🗺 Selected Knowledge & Projects
+## 🗺 Knowledge & Projects
 
-| Area | Selected work |
+| Area | Repositories |
 |---|---|
-| **AI / Machine Learning** | [ML Roadmap](https://github.com/seiji1997/machine-learning-roadmap) · [ML Models](https://github.com/seiji1997/machine-learning-models) · [Reference Materials](https://github.com/seiji1997/reference-materials) |
+| **AI / Machine Learning** | [Algorithm](https://github.com/seiji1997/algorithm) · [ML Roadmap](https://github.com/seiji1997/machine-learning-roadmap) · [ML Models](https://github.com/seiji1997/machine-learning-models) · [Reference Materials](https://github.com/seiji1997/reference-materials) · [ChatGPT](https://github.com/seiji1997/chatgpt) |
 | **Data Engineering** | [Data Engineering](https://github.com/seiji1997/data-engineering) · [SQL](https://github.com/seiji1997/SQL) · [Python](https://github.com/seiji1997/Python) · [Spark](https://github.com/seiji1997/Spark) |
-| **Cloud** | [Google Cloud](https://github.com/seiji1997/google-cloud) · [AWS](https://github.com/seiji1997/amazon-web-service) |
-| **Engineering** | [Git / GitHub](https://github.com/seiji1997/git-github) · [Docker](https://github.com/seiji1997/docker) · [React](https://github.com/seiji1997/React) · [Next.js](https://github.com/seiji1997/Next.js) |
-| **BI / Tools** | [Power BI](https://github.com/seiji1997/PowerBI) · [Looker](https://github.com/seiji1997/Looker) · [QuickSight](https://github.com/seiji1997/QuickSight) · [Excel](https://github.com/seiji1997/Excel) |
+| **Cloud / DevOps** | [Google Cloud](https://github.com/seiji1997/google-cloud) · [AWS](https://github.com/seiji1997/amazon-web-service) · [Git / GitHub](https://github.com/seiji1997/git-github) · [Linux](https://github.com/seiji1997/linux) · [Docker](https://github.com/seiji1997/docker) · [DevOps](https://github.com/seiji1997/DevOps) |
+| **Web / Application** | [JavaScript](https://github.com/seiji1997/JavaScript) · [HTML / CSS](https://github.com/seiji1997/HTML-CSS) · [React](https://github.com/seiji1997/React) · [Next.js](https://github.com/seiji1997/Next.js) · [Node.js](https://github.com/seiji1997/Node.js) · [Go](https://github.com/seiji1997/Go) |
+| **BI / Analytics / Tools** | [Power BI](https://github.com/seiji1997/PowerBI) · [Looker](https://github.com/seiji1997/Looker) · [QuickSight](https://github.com/seiji1997/QuickSight) · [Excel](https://github.com/seiji1997/Excel) |
+
+---
 
 ---
 
 ## 🎓 Certifications
 
-Previously earned certifications include:
+I have earned certifications across **Cloud, Data, Machine Learning, AI, and English**.
 
-**Google Cloud Professional Machine Learning Engineer · Professional Data Engineer · Professional Cloud Architect · Professional Cloud Security Engineer · Associate Cloud Engineer · JDLA E Qualification · JDLA G Certification**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-→ [Certification repository](https://github.com/seiji1997/certification)
+### ☁️ Google Cloud
+
+- [Professional Machine Learning Engineer](https://github.com/seiji1997/certification/tree/master/Google%20Cloud)
+- [Professional Data Engineer](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Professional%20Data%20Engineer.png)
+- [Professional Cloud Architect](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Professional%20Cloud%20Architect.png)
+- [Professional Cloud Security Engineer](https://github.com/seiji1997/certification/tree/master/Google%20Cloud)
+- [Associate Cloud Engineer](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Associate%20Cloud%20Engineer.png)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI / Deep Learning
+
+- [JDLA Deep Learning for ENGINEER / E Qualification](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/JDLA%20Deep%20Learning%20for%20ENGINEER.png)
+- [JDLA Deep Learning for GENERAL / G Certification](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/JDLA%20Deep%20Learning%20for%20GENERAL.png)
+- [AI Implementation Certification A Grade](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/AI%E5%AE%9F%E8%A3%85%E6%A4%9C%E5%AE%9AA%E7%B4%9A%E5%90%88%E6%A0%BC%E8%A8%BC.pdf)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Coursera / Learning Programs
+
+- [Data Engineering, Big Data and ML on Google Cloud](https://github.com/seiji1997/certification/tree/master/Coursera)
+- [Building Batch Data Pipelines on GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
+- [Building Resilient Streaming Analytics Systems on GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
+- [Google Cloud Big Data and Machine Learning Fundamentals](https://github.com/seiji1997/certification/tree/master/Coursera)
+- [Modernizing Data Lakes and Data Warehouses with GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
+- [Smart Analytics, Machine Learning, and AI on GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 English
+
+- [TOEIC Records](https://github.com/seiji1997/certification/tree/master/English)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/seiji1997/certification">
+    <b>View all certifications →</b>
+  </a>
+</p>
 
 ---
-
-## ✍️ Writing
-
-I use writing as a way to turn temporary learning into reusable knowledge.
-
-[![Qiita posts](https://qiita-badge.apiapi.app/s/seiji1997/posts.svg)](https://qiita.com/seiji1997)
-[![Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](https://qiita.com/seiji1997)
-[![Qiita followers](https://qiita-badge.apiapi.app/s/seiji1997/followers.svg)](https://qiita.com/seiji1997)
-
----
-
-## 🗃 More repositories & knowledge
-
-<br>
-
-**AI / ML**
-
-[algorithm](https://github.com/seiji1997/algorithm) ·
-[machine-learning-roadmap](https://github.com/seiji1997/machine-learning-roadmap) ·
-[machine-learning-models](https://github.com/seiji1997/machine-learning-models) ·
-[reference-materials](https://github.com/seiji1997/reference-materials) ·
-[chatgpt](https://github.com/seiji1997/chatgpt)
-
-<br>
-
-**Data / Engineering**
-
-[data-engineering](https://github.com/seiji1997/data-engineering) ·
-[SQL](https://github.com/seiji1997/SQL) ·
-[Python](https://github.com/seiji1997/Python) ·
-[Spark](https://github.com/seiji1997/Spark) ·
-[git-github](https://github.com/seiji1997/git-github) ·
-[linux](https://github.com/seiji1997/linux) ·
-[docker](https://github.com/seiji1997/docker) ·
-[DevOps](https://github.com/seiji1997/DevOps)
-
-<br>
-
-**Web / Application**
-
-[JavaScript](https://github.com/seiji1997/JavaScript) ·
-[HTML-CSS](https://github.com/seiji1997/HTML-CSS) ·
-[React](https://github.com/seiji1997/React) ·
-[Next.js](https://github.com/seiji1997/Next.js) ·
-[Node.js](https://github.com/seiji1997/Node.js) ·
-[Go](https://github.com/seiji1997/Go)
-
-<br>
-
-**BI / Analytics**
-
-[Looker](https://github.com/seiji1997/Looker) ·
-[QuickSight](https://github.com/seiji1997/QuickSight) ·
-[PowerBI](https://github.com/seiji1997/PowerBI) ·
-[Excel](https://github.com/seiji1997/Excel)
-
 ---
 
 <div align="center">
@@ -200,6 +195,12 @@ I use writing as a way to turn temporary learning into reusable knowledge.
 
 <br><br>
 
-### Learn · Build · Think
+I use writing as a way to turn temporary learning into reusable knowledge.
+
+[![Qiita posts](https://qiita-badge.apiapi.app/s/seiji1997/posts.svg)](https://qiita.com/seiji1997)
+[![Qiita contributions](https://qiita-badge.apiapi.app/s/seiji1997/contributions.svg)](https://qiita.com/seiji1997)
+[![Qiita followers](https://qiita-badge.apiapi.app/s/seiji1997/followers.svg)](https://qiita.com/seiji1997)
+
+
 
 </div>

@@ -43,6 +43,14 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 ## ⚡ Now
 
+**2026 Snowflake roadmap**
+
+`10/12 SnowPro Core`
+→
+`11/08 Advanced Data Engineer`
+→
+`12/13 Advanced Architect`
+
 | | Current focus |
 |---|---|
 | ❄️ **Learning** | Snowflake / Data Architecture |
@@ -67,14 +75,6 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 ## 🎓 Certifications
 
-**2026 Snowflake roadmap**
-
-`10/12 SnowPro Core`
-→
-`11/08 Advanced Data Engineer`
-→
-`12/13 Advanced Architect`
-
 Previously earned certifications include:
 
 **Google Cloud Professional Machine Learning Engineer · Professional Data Engineer · Professional Cloud Architect · Professional Cloud Security Engineer · Associate Cloud Engineer · JDLA E Qualification · JDLA G Certification**
@@ -93,8 +93,7 @@ I use writing as a way to turn temporary learning into reusable knowledge.
 
 ---
 
-<details>
-<summary><b>🗃 More repositories & knowledge</b></summary>
+## 🗃 More repositories & knowledge
 
 <br>
 
@@ -138,8 +137,6 @@ I use writing as a way to turn temporary learning into reusable knowledge.
 [QuickSight](https://github.com/seiji1997/QuickSight) ·
 [PowerBI](https://github.com/seiji1997/PowerBI) ·
 [Excel](https://github.com/seiji1997/Excel)
-
-</details>
 
 ---
 

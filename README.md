@@ -8,14 +8,35 @@ I learn, build, and write about **AI, Data, Cloud, and Engineering**.
 
 <br>
 
+<table>
+<tr>
+<td align="center">
+
+## 🌌 Seiji Tech Atlas
+
+**My personal hub for AI, Data, Snowflake, Projects, and Thoughts**
+
+<br>
+
 <a href="https://seiji1997.github.io/tecblog/">
   <img
-    src="https://img.shields.io/badge/EXPLORE-Seiji%20Tech%20Atlas-0969DA?style=for-the-badge&logo=githubpages&logoColor=white"
-    alt="Explore Seiji Tech Atlas"
+    src="https://img.shields.io/badge/OPEN%20WEBSITE-Seiji%20Tech%20Atlas-0969DA?style=for-the-badge&logo=githubpages&logoColor=white"
+    alt="Open Seiji Tech Atlas"
+    height="56"
   />
 </a>
 
 <br><br>
+
+<a href="https://seiji1997.github.io/tecblog/">
+  <strong>Explore the site →</strong>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <a href="https://www.linkedin.com/in/seijitanimoto1997/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;

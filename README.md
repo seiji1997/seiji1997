@@ -10,28 +10,25 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-## 🌌 Seiji Tech Atlas
-
-**A personal knowledge hub for what I learn, build, and think about.**
-
-<br>
-
 <a href="https://seiji1997.github.io/tecblog/">
   <img
-    src="https://img.shields.io/badge/OPEN%20WEBSITE-Seiji%20Tech%20Atlas-0969DA?style=for-the-badge&logo=githubpages&logoColor=white"
-    alt="Open Seiji Tech Atlas"
-    height="58"
+    src="./assets/seiji-tech-atlas-preview.png"
+    alt="Seiji Tech Atlas"
+    width="100%"
   />
 </a>
 
-</td>
-</tr>
-</table>
+<br><br>
 
+<a href="https://www.linkedin.com/in/seijitanimoto1997/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://qiita.com/seiji1997">Qiita</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/seiji1997/certification">Certifications</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/seiji1997?tab=repositories">Repositories</a>
+
+</div>
 <br>
 
 <a href="https://www.linkedin.com/in/seijitanimoto1997/">LinkedIn</a>

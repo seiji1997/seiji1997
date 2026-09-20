@@ -29,17 +29,6 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 <a href="https://github.com/seiji1997?tab=repositories">Repositories</a>
 
 </div>
-<br>
-
-<a href="https://www.linkedin.com/in/seijitanimoto1997/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://qiita.com/seiji1997">Qiita</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/seiji1997/certification">Certifications</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/seiji1997?tab=repositories">Repositories</a>
-
-</div>
 
 ---
 

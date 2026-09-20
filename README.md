@@ -20,8 +20,6 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 <a href="https://seiji1997.github.io/tecblog/">My tech web here☝️</a>
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/seijitanimoto1997/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://qiita.com/seiji1997">Qiita</a>

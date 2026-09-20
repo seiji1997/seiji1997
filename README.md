@@ -71,63 +71,44 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 | **Web / Application** | [JavaScript](https://github.com/seiji1997/JavaScript) · [HTML / CSS](https://github.com/seiji1997/HTML-CSS) · [React](https://github.com/seiji1997/React) · [Next.js](https://github.com/seiji1997/Next.js) · [Node.js](https://github.com/seiji1997/Node.js) · [Go](https://github.com/seiji1997/Go) |
 | **BI / Analytics / Tools** | [Power BI](https://github.com/seiji1997/PowerBI) · [Looker](https://github.com/seiji1997/Looker) · [QuickSight](https://github.com/seiji1997/QuickSight) · [Excel](https://github.com/seiji1997/Excel) |
 
----
+## 🎓 Certifications
 
-## 🎓 Certifications & Learning
+### ☁️ Google Cloud
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Google Cloud Certifications
-
-- [Associate Cloud Engineer](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Associate%20Cloud%20Engineer.png)
-- [Professional Cloud Architect](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Professional%20Cloud%20Architect.png)
-- [Professional Data Engineer](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Professional%20Data%20Engineer.png)
-
-</td>
-<td width="50%" valign="top">
+- [Google Cloud Certified Associate Cloud Engineer](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Associate%20Cloud%20Engineer.png)
+- [Google Cloud Certified Professional Cloud Architect](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Professional%20Cloud%20Architect.png)
+- [Google Cloud Certified Professional Data Engineer](https://github.com/seiji1997/certification/blob/master/Google%20Cloud/Google%20Cloud%20Certified%20Professional%20Data%20Engineer.png)
 
 ### 🧠 AI / Deep Learning
 
+- [AI実装検定 A級](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/AI%E5%AE%9F%E8%A3%85%E6%A4%9C%E5%AE%9AA%E7%B4%9A%E5%90%88%E6%A0%BC%E8%A8%BC.pdf)
 - [JDLA Deep Learning for ENGINEER](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/JDLA%20Deep%20Learning%20for%20ENGINEER.png)
 - [JDLA Deep Learning for GENERAL](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/JDLA%20Deep%20Learning%20for%20GENERAL.png)
-- [AI Implementation Certification A Grade](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/AI%E5%AE%9F%E8%A3%85%E6%A4%9C%E5%AE%9AA%E7%B4%9A%E5%90%88%E6%A0%BC%E8%A8%BC.pdf)
 
-</td>
-</tr>
-</table>
+### 📚 Coursera / Google Cloud
 
-### 📚 Google Cloud / Coursera Learning
-
-<details>
-<summary><b>View completed learning programs</b></summary>
-
-<br>
-
-- [Application Deployment, Debug, Performance](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Architecting with Google Kubernetes Engine - Foundations](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Building Batch Data Pipelines on GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Building Resilient Streaming Analytics Systems on GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Data Engineering, Big Data and ML on Google Cloud](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Google Cloud Big Data and Machine Learning Fundamentals](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Google Cloud Fundamentals: Core Infrastructure](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Modernizing Data Lakes and Data Warehouses with GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
-- [Smart Analytics, Machine Learning, and AI on GCP](https://github.com/seiji1997/certification/tree/master/Coursera)
-
-</details>
+- [Application Deployment, Debug, Performance](https://github.com/seiji1997/certification/blob/master/Coursera/Application%20Deployment%2C%20Debug%2C%20Performance.pdf)
+- [Architecting with Google Kubernetes Engine - Foundations](https://github.com/seiji1997/certification/blob/master/Coursera/Architecting%20with%20Google%20Kubernetes%20Engine-%20Foundations.pdf)
+- [Building Batch Data Pipelines on GCP](https://github.com/seiji1997/certification/blob/master/Coursera/Building%20Batch%20Data%20Pipelines%20on%20GCP.pdf)
+- [Building Resilient Streaming Analytics Systems on GCP](https://github.com/seiji1997/certification/blob/master/Coursera/Building%20Resilient%20Streaming%20Analytics%20Systems%20on%20GCP.pdf)
+- [Data Engineering, Big Data and ML on Google Cloud](https://github.com/seiji1997/certification/blob/master/Coursera/Data%20Engineering%2C%20Big%20Data%20and%20ML%20on%20Google%20Cloud.pdf)
+- [Google Cloud Big Data and Machine Learning Fundamentals](https://github.com/seiji1997/certification/blob/master/Coursera/Google%20Cloud%20Big%20Data%20and%20Machine%20Learning%20Fundamentals.pdf)
+- [Google Cloud Fundamentals Core Infrastructure](https://github.com/seiji1997/certification/blob/master/Coursera/Google%20Cloud%20Fundamentals%20Core%20Infrastructure.pdf)
+- [Modernizing Data Lakes and Data Warehouses with GCP](https://github.com/seiji1997/certification/blob/master/Coursera/Modernizing%20Data%20Lakes%20and%20Data%20Warehouses%20with%20GCP.pdf)
+- [Smart Analytics, Machine Learning, and AI on GCP](https://github.com/seiji1997/certification/blob/master/Coursera/Smart%20Analytics%2C%20Machine%20Learning%2C%20and%20AI%20on%20GCP.pdf)
 
 ### 🌍 English
 
-- [TOEIC Records](https://github.com/seiji1997/certification/tree/master/English)
+- [TOEIC - 2022/10/23](https://github.com/seiji1997/certification/blob/master/English/20221023_TOEIC.png)
+- [TOEIC - 2022/12/18](https://github.com/seiji1997/certification/blob/master/English/20221218_TOEIC.png)
+
+---
 
 <p align="center">
   <a href="https://github.com/seiji1997/certification">
-    <b>View full certification archive →</b>
+    <b>View Certification Repository →</b>
   </a>
 </p>
-
----
 
 <div align="center">
 

@@ -36,6 +36,8 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 **2026 Snowflake Roadmap**
 
+https://seiji1997.github.io/tecblog/topics/snowflake/
+
 `10/12 SnowPro Core`
 →
 `11/08 Advanced Data Engineer`

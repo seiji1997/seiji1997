@@ -36,7 +36,8 @@ I enjoy turning what I learn into **structured knowledge, reusable tools, and pr
 
 **2026 Snowflake Roadmap**
 
-https://seiji1997.github.io/tecblog/topics/snowflake/
+- my web about SF: https://seiji1997.github.io/tecblog/topics/snowflake/
+- test info about SF: https://github.com/seiji1997/Snowflake/blob/master/README.md
 
 `10/12 SnowPro Core`
 →
